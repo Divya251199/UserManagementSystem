@@ -10,6 +10,6 @@ public class User {
     private String userId;
     private String name;
     private String userName;
-    private String Address;
+    private String address;
     private String phoneNumber;
 }
